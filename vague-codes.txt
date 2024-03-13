@@ -1,0 +1,30 @@
+ <!-- <a href="#" class="google-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                        <path fill="#4285F4" d="M23.645 12.76c0-.737-.065-1.454-.188-2.148H12v4.064h5.736a4.82 4.82 0 0 1-2.09 3.17v2.636h3.373c1.978-1.824 3.116-4.512 3.116-7.722z"/>
+                        <path fill="#34A853" d="M12 24c2.822 0 5.18-.93 6.89-2.522l-3.373-2.636c-.938.63-2.137 1.002-3.517 1.002-2.69 0-4.963-1.816-5.766-4.256H1.026v2.662A11.994 11.994 0 0 0 12 24z"/>
+                        <path fill="#FBBC05" d="M6.234 14.19a8.008 8.008 0 0 1-.548-2.558c0-.89.154-1.754.548-2.558V8.372H1.026A11.978 11.978 0 0 0 0 12c0 1.938.464 3.77 1.026 5.372l5.208-4.064z"/>
+                        <path fill="#EA4335" d="M12 4.536c1.523 0 2.894.52 3.977 1.54l2.825-2.825C17.18 1.212 14.822 0 12 0a12 12 0 0 0-10.974 7.372l5.208 4.064c1.33-3.45 4.264-5.9 7.766-6.9z"/>
+                        <path fill="none" d="M0 0h24v24H0z"/>
+                    </svg>
+                    Sign up with Google
+                </a>
+                
+                <-- Facebook Sign-up Button -->
+                <!-- <a href="#" class="facebook-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                        <path fill="#1877F2" d="M21 12c0-5.523-4.477-10-10-10S1 6.477 1 12c0 4.936 3.624 8.993 8.333 9.732V15.608H6.441v-3.604H9v-2.32c0-2.682 1.596-4.158 4.032-4.158 1.167 0 2.264.088 2.568.127v2.796h-1.764c-1.377 0-1.648.653-1.648 1.618v1.956h3.291l-.531 3.604h-2.76v9.186C17.376 21.78 21 17.705 21 12z"/>
+                        <path fill="none" d="M0 0h24v24H0z"/>
+                    </svg>
+                    Sign up with Facebook
+                </a> --> 
+
+ <!-- <div>
+                    <button type = "signup" class="google-btn">
+                   <span class="btn-icon"><i class="fab fa-google"></i></span>
+                   Sign up with Google
+               </button>
+               <button type = "signup" class="facebook-btn">
+                   <span class="btn-icon"><i class="fab fa-facebook-f"></i></span>
+                   Sign up with Facebook
+               </button>
+           </div> -->
